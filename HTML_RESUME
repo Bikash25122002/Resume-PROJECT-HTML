@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume Bikash</title>
+</head>
+<body>
+    <div>
+        <div>
+
+            <h1>BIKASH MAHARANA</h1>
+
+            <p>Contact: <a href="">7326876802</a></p>
+            <p>E-mail: <a href="https://mail.google.com/mail/u/0/#inbox">bikash.maharana135@gmail.com</a></p>
+            <p>LinkedIn: <a href="https://www.linkedin.com/in/bikash-maharana-593b7a1b6/"></a>www.linkedin.com/in/bikash-maharana-593b7a1b6/</p>
+            <p>GitHub: <a href="https://github.com/Bikash25122002"></a>github.com/Bikash25122002</p>
+
+
+        </div>
+
+
+        <table>
+            <tr>
+                <td>
+                    <img src="paspoto.jpg" alt="BikashMaharanaPic">
+                </td>
+                <td>
+                    Inborn problem-solving skills, as well as strong design and integration skills. Capable of using Java, SQL, C, Python, Html, Css and JavaScript. 
+                    Excited about beginning and completing new initiatives. Knowledge of how to translate business requirements into technical solutions. A 
+                    respectable, technology-focused organization where I can start a career as an entry-level Development engineer. 
+
+                </td>
+            </tr>
+        </table>
+
+
+        <section>
+
+            <h2>Education</h2>
+
+            <ul>
+                <li>B.Tech (2024) in Computer Science & Engineering form B.P.U.T(Rourkela), Odisha | CGPA:7.8</li>
+                <li>
+                    DIPLOMA (2021) in Computer Science & Engineering form S.C.T.E & V.T ODISHA | Percentage: 76.5
+                </li>
+
+                <li>
+                    X<sup>th</sup> (2018) from Board of Secondary Education Odisha | Percentage: 63.5
+                </li>
+            </ul>
+
+        </section>
+
+
+        <section>
+
+
+            <h2>Work Experiecnce</h2>
+
+            <h3>Python for Data Science ,IIT Madras (NPTEL)</h3>
+
+
+            <P>Jan 2023 - Feb 2023</P>
+
+        </section>
+
+        <ul>
+            <li>Basics of Python.</li>
+            <li>Data Science Engineering, Matlab, etc.</li>
+        </ul>
+
+
+        <h3>Advance C and Data Structure, NIST University (Departmental Internship)</h3>
+
+
+            <P>Mar 2022 - Apr 2022</P>
+
+        </section>
+
+        <ul>
+            <li>Programming in C.</li>
+            <li>Data Structure and Algorithms</li>
+        </ul>
+
+
+        <section>
+
+            <h2>Skills</h2>
+
+            <ul>
+                <li>C</li>
+                <li>Java</li>
+                <li>Python</li>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JavaScript</li>
+                <li>SQL</li>
+            </ul>
+
+        </section>
+
+        <section>
+
+            <h2>Achievements</h2>
+
+            <ul>
+                <li> Successfully Completed the Summer Course 2023 Provided by NPTEL On the Course: Python for Data Science.</li>
+                <li> Successfully Completed the Summer Course 2022 Provided by NIST Institute of Science and Technology in 
+                    Departmental Internship on the Course: Advance C and Data Structure.</li>
+                <li> Successfully Completed the Assessment Program 2023 August Provided by HackerRank on the Course: Python (Basic).</li>
+                <li>ssfully Completed the Summer Course 2019 Provided by C.A.C Berhampur on the Course: CPrograming.</li>
+                <li> Successfully Completed the Summer Course 2018 Provided by I.C.S.S Berhampur on the Course: Computer Application.</li>
+                <li> Participate on: International Conference on Artificial Intelligence of Things For Sustainability”: (Design and 
+                    Implementation of a Prototype Knowledge-based Sensor-Controlled Automatic Sliding Door for and IoT-based 
+                    Application )</li>
+            </ul>
+
+
+
+
+        </section>
+
+        <section>
+
+            <h2>Projects</h2>
+            <h3>Project-1:</h3>
+                <h4>B.Tech / Guide: Asst.Prof. Manoj Kumar Sahoo  (NIST University) Jan 2023 - Jul 2023</h4>
+            <ul>
+                <li>“ADAPTIVE AUTOMATIC DOOR SYSTEM” : (The automatic doors' industry is very common, and profitable. Moreover, 
+                    expected to keep in increasing with the enhancement, development, and innovations appear in the field of Internet 
+                    of Things (IoT)).
+                    Keyword: Basics of C++, Arduino Uno, L2983D Motor Driver, CD Loader, Jumper wires, IR sensors, etc.</li>
+            </ul>
+
+            <h3>Project-2:</h3>
+                <h4>B. TECH / Guide: Dr. Manjushree Nayak  (NIST University)  Aug 2023 - Nov 2023</h4>
+
+                <ul>
+                    <li>“LOCALIZED ONLINE MARKET PLACE FOR ART AND TEXTILES” : (The project aims to
+                        address the dynamics of the Indian art and textile market and how an online platform will help in enabling smooth 
+                        and free trade. This report comprehensively explores some of the key aspects of the local market as well as ECommerce Industry/ Design E-commerce website using HTML, CSS and JS etc.)</li>
+                </ul>
+
+
+                <h3>Project-3</h3>
+                    <h4>B. TECH , (By Own) Nov 2023 - Dec 2023</h4>
+
+                    <ul>
+                        <li>“PERSONAL PORTFOLIO WEBSITE” (Design responsive personal portfolio for resume usingHTML, CSS and 
+                            JavaScript in this project.)</li>
+                    </ul>
+
+                
+                <h3>Project-4</h3>
+                    <h4>B.Tech , (By Own)   Mar 4<sup>th</sup> - 29<sup>th 2024</sup></h4>
+
+                    <ul>
+                        <li>“WEATHER APP” (Design responsive Weather Forecast Prediction Application usingPython Programming.)</li>
+                    </ul>
+
+        </section>
+
+        <section>
+
+            <h2>Others</h2>
+
+            <ul>
+                <li> Hobbies: Travelling, Cooking, Learning languages </li>
+                <li> D.o.B: 25/12/2002</li>
+                <li> Religion: Hindu</li>
+                <li> Marital Status: Unmarried</li>
+                <li> Languages: English, Hindi, Odia</li>
+            </ul>
+
+
+        </section>
+
+
+        <section>
+
+            <h2>Declaration</h2>
+            <p>I do hereby declare that all the details furnished above are true to the best of my knowledge and belief.</p>
+
+
+            <br>
+            <br>
+            <br>
+            <img src="signature.jpg" alt="signature" height="150px" width="300px">
+
+            <br>
+            <br>
+            <p>Place: Berhampur, Odisha (India)</p>
+            <p>Date: 16 / 05 / 2024 </p>
+
+
+
+        </section>
+
+
+
+        <footer>
+
+            <p>&#169;2024 Bikash Maharana, All rights reserved.</p>
+            
+                </footer>
+
+    </div>
+
+
+ 
+</body>
+</html>
